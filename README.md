@@ -1,48 +1,46 @@
-# 🛩️ JESKO JETS: THE ASCENSION
-> **"We are movement. We are distinction. We are the absolute."**
+# Jesko Jets: An Award-Winning Recreation
 
-This isn't just a website. This is a high-octane, frame-by-frame cinematic heist of the award-winning **Jesko Jets** experience, reconstructed from the ground up with zero compromise.
-
----
-
-## ⚡ THE VISION
-I took the skeletal remains of a world-class design and injected it with pure digital adrenaline. This is scrollytelling pushed to the edge of the browser's capabilities. 
-
-### 💎 MODIFICATIONS (MY STYLE)
-- **CRIMINAL TYPOGRAPHY:** Ripped out the defaults and hard-coded the elite **Cabinet Grotesk** family. It doesn't just look better; it feels heavier.
-- **SURGICAL SCROLL:** The original was too fast. I've re-engineered the scroll physics to **1600vh** of pure tension. Every frame is a statement.
-- **LOGO ASCENSION:** The branding doesn't just sit there. It starts in the heart of the turbine and ascends to the crown as you descend into the experience.
+Building a world-class digital experience requires precision, technical depth, and a relentless eye for detail. This project is a full-scale recreation of the award-winning **Jesko Jets** website, built to demonstrate my ability to engineer high-end, cinematic UI/UX from scratch.
 
 ---
 
-## 🛠️ THE ARSENAL
-- **NEXT.JS 15 (APP ROUTER):** The cutting-edge spine.
-- **FRAMER MOTION:** For animations smoother than a Gulfstream G650ER at Mach 0.9.
-- **CANVAS DOMINATION:** Custom sequence rendering for pixel-perfect frame manipulation.
-- **TAILWIND CSS:** Utility-first warfare for the layout.
+## 🎯 The Objective
+The goal of this project was to replicate a top-tier Awwwards-level website using modern web technologies, while injecting my own technical improvements and stylistic choices. It serves as a proof of concept that premium, industry-leading design is within my technical reach.
+
+### Key Modifications & Additions
+While the core concept is a tribute to the original, I have introduced several custom technical and design enhancements:
+- **Custom Design System:** Integrated the premium **Cabinet Grotesk** font family for a sharper, more distinct brand identity.
+- **Engineered Scrollytelling:** Re-calculated the scroll-to-animation ratios (extended to **1600vh**) to create a slower, more immersive cinematic flow.
+- **Fluid Logo Transitions:** Developed a custom `framer-motion` sequence that animates the branding from the center of the viewport (the plane's window) to its final navigation position upon scroll.
+- **Canvas Sequence Optimization:** Managed high-density image sequences to ensure smooth frame playback during rapid scroll interactions.
 
 ---
 
-## 🚀 DEPLOY THE ENGINE
+## 🛠️ Technical Arsenal
+- **Framework:** Next.js (App Router)
+- **Animation Engine:** Framer Motion
+- **Sequence Rendering:** Custom Canvas implementation
+- **Styling:** Tailwind CSS (Modern Theme Configuration)
+- **Typography:** Next.js Local Fonts
 
-If you have the courage to run this locally:
+---
 
-1. **Ignition:**
+## 🚀 Experience It Locally
+
+1. **Clone & Install:**
    ```bash
    npm install
    ```
 
-2. **Liftoff:**
+2. **Launch:**
    ```bash
    npm run dev
    ```
 
-3. **Infiltration:**
-   Navigate to `localhost:3000` and prepare for total immersion.
+3. **Navigate:**
+   Open `localhost:3000` and experience the journey.
 
 ---
 
-### ⚠️ WARNING
-This project is optimized for high-end displays and those who appreciate the finer details of motion design. If your GPU starts sweating, it's working.
-
-**MODIFIED BY KUSHAL RAJ G S | BEYOND THE STANDARD**
+**Built by Kushal Raj G S**  
+*Demonstrating that world-class design is an engineering discipline.*

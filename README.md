@@ -1,30 +1,48 @@
-# Jesko Jets Recreation
+# 🛩️ JESKO JETS: THE ASCENSION
+> **"We are movement. We are distinction. We are the absolute."**
 
-A high-end cinematic scrollytelling experience recreated in my own style.
+This isn't just a website. This is a high-octane, frame-by-frame cinematic heist of the award-winning **Jesko Jets** experience, reconstructed from the ground up with zero compromise.
 
-## About This Project
-This project is a recreation of the award-winning **Jesko Jets** website. I have taken the original concept and modified it with my own aesthetic choices, including:
-- **Custom Typography:** Implementation of the premium **Cabinet Grotesk** font family.
-- **Enhanced Scrollytelling:** Fine-tuned scroll speed and frame-by-frame canvas animations for a smoother, slower, and more premium cinematic feel.
-- **Dynamic UI:** Interactive navigation and motion-driven logo transitions that adapt to the user's scroll position.
+---
 
-## Tech Stack
-- **Framework:** Next.js (App Router)
-- **Animation:** Framer Motion
-- **Canvas:** Sequence-based image rendering
-- **Styling:** Tailwind CSS
-- **Fonts:** Next.js local fonts (Cabinet Grotesk)
+## ⚡ THE VISION
+I took the skeletal remains of a world-class design and injected it with pure digital adrenaline. This is scrollytelling pushed to the edge of the browser's capabilities. 
 
-## Getting Started
+### 💎 MODIFICATIONS (MY STYLE)
+- **CRIMINAL TYPOGRAPHY:** Ripped out the defaults and hard-coded the elite **Cabinet Grotesk** family. It doesn't just look better; it feels heavier.
+- **SURGICAL SCROLL:** The original was too fast. I've re-engineered the scroll physics to **1600vh** of pure tension. Every frame is a statement.
+- **LOGO ASCENSION:** The branding doesn't just sit there. It starts in the heart of the turbine and ascends to the crown as you descend into the experience.
 
-First, install the dependencies:
-```bash
-npm install
-```
+---
 
-Then, run the development server:
-```bash
-npm run dev
-```
+## 🛠️ THE ARSENAL
+- **NEXT.JS 15 (APP ROUTER):** The cutting-edge spine.
+- **FRAMER MOTION:** For animations smoother than a Gulfstream G650ER at Mach 0.9.
+- **CANVAS DOMINATION:** Custom sequence rendering for pixel-perfect frame manipulation.
+- **TAILWIND CSS:** Utility-first warfare for the layout.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
+
+## 🚀 DEPLOY THE ENGINE
+
+If you have the courage to run this locally:
+
+1. **Ignition:**
+   ```bash
+   npm install
+   ```
+
+2. **Liftoff:**
+   ```bash
+   npm run dev
+   ```
+
+3. **Infiltration:**
+   Navigate to `localhost:3000` and prepare for total immersion.
+
+---
+
+### ⚠️ WARNING
+This project is optimized for high-end displays and those who appreciate the finer details of motion design. If your GPU starts sweating, it's working.
+
+**MODIFIED BY KUSHAL RAJ G S | BEYOND THE STANDARD**
